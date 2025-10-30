@@ -1,7 +1,7 @@
 # Python_Mini_Project
 <p>This is a project which was done for the IT WORKSHOP III</p>
-This is a Employee Performance Tracker
-## This project consists of the things which tells about the performance of an Employee in a company based on the factors:
+<p>This is a Employee Performance Tracker</p>
+<b>This project consists of the things which tells about the performance of an Employee in a company based on the factors:</b>
 <ol>
   <li>Attendace in Meetings</li>
   <li>Completing the works based on the due date</li>

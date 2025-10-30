@@ -1,2 +1,4 @@
 # Python_Mini_Project
-This is a mini project which is about Smart Home Automation System 
+<p>This is a project which was done for the IT WORKSHOP III</p>
+This is a Restaurant Management System 
+
